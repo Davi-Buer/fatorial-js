@@ -1,11 +1,15 @@
 {
-    "name": "fatorial",
-    "version": "1.0.0",
-    "main": "fatorial.js",
-    "scripts": {
-      "test": "jest"
-    },
-    "devDependencies": {
-      "jest": "^29.0.0"
-    }
+  "name": "fatorial-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fatorial.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
   }
+}
